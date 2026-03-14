@@ -11,6 +11,7 @@ I’m a data science and machine learning practitioner focused on building relia
 ## 💻 Skills & Tools
 Languages & Technologies:
 Python • SQL • Pandas • NumPy • Scikit-learn
+
 Tools:
 Matplotlib • Seaborn • Jupyter Notebook • Git
 
