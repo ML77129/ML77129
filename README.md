@@ -8,7 +8,7 @@ I’m a data science and machine learning practitioner focused on building relia
 - Improving the design and performance of data-driven systems
 - Continuously expanding knowledge in modern data science practices
 
--- 💻 Skills & Tools
+##💻 Skills & Tools
 Languages & Technologies:
 Python • SQL • Pandas • NumPy • Scikit-learn
 Tools:
