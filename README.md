@@ -21,4 +21,4 @@ Matplotlib • Seaborn • Jupyter Notebook • Git
 ### 📫 How to Reach Me
 Email: nandanroy2323@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/nandan-roy-67b5ab281/
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/nandan-roy-67b5ab281/)
