@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm Arpon, a data science and machine learning practitioner focused on building reliable data-driven systems and extracting meaningful insights from complex datasets. I approach problems with analytical thinking, structured experimentation, and an emphasis on clean and reproducible workflows.
+###I'm Arpon, a data science and machine learning practitioner focused on building reliable data-driven systems and extracting meaningful insights from complex datasets. I approach problems with analytical thinking, structured experimentation, and an emphasis on clean and reproducible workflows.
 ---
-I focus on advancing my expertise in machine learning methodologies, data analysis, and statistical modeling while continuously improving the design and performance of data-driven solutions.
+###I focus on advancing my expertise in machine learning methodologies, data analysis, and statistical modeling while continuously improving the design and performance of data-driven solutions.
 ---
-Tools & Tech
+#Tools & Tech
 Python • SQL • Pandas • NumPy • Scikit-learn
 Matplotlib • Seaborn • Jupyter Notebook • Git
 
